@@ -2,7 +2,7 @@ require 'httparty'
 require 'json'
 require 'geocoder'
 
-api_key = "361f798bbccc4637e336d8ba047ae3eb"
+api_key = ""
 
 
 puts "What zipcode would you like to know the Forecast for?"

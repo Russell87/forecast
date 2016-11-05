@@ -1,15 +1,19 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    geocoder (1.4.0)
     httparty (0.14.0)
       multi_xml (>= 0.5.2)
+    json (2.0.2)
     multi_xml (0.5.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  geocoder
   httparty
+  json
 
 BUNDLED WITH
    1.13.6
